@@ -1,0 +1,11 @@
+{
+    "configurations": [
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - Screenshot",
+            "request": "launch",
+            "mainClass": "Screenshot",
+            "projectName": "ScreenshotTest_fc305ea7"
+        }
+    ]
+}
